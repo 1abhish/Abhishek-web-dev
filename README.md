@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1abhish
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in competitve programming
 - 🌱 I’m currently learning web dev
 - 📫 insta-abhishek_sengar_
